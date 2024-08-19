@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'CustomFont'; /* Name your font family */
+  src: url('Mont.otf'); /* Locate the .ttf file within your directory*/
+}
+
+body {
+  font-family: 'CustomFont', sans-serif; /* Use the font family */
+  background-color:lightgreen;
+  background-image: url("papergreen.jpg");
+  back
+  background-repeat: repeat;
+}
+img {
+  border: 7px solid darkgreen;
+  
+}
+iframe{
+  border: 7px solid darkgreen;
+}
